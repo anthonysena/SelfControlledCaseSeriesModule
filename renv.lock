@@ -579,7 +579,7 @@
 		},
 		"renv" : {
 			"Package" : "renv",
-			"Version" : "0.16.0",
+			"Version" : "0.15.5",
 			"Source" : "Repository",
 			"Repository" : "CRAN"
 		},
